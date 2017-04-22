@@ -1,6 +1,6 @@
 # npmtest-grunt-build-control
 
-#### basic test coverage for  [grunt-build-control (v0.7.1)](https://github.com/robwierzbowski/grunt-build-control)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-build-control.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-build-control) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-build-control.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-build-control)
+#### basic test-coverage for  [grunt-build-control (v0.7.1)](https://github.com/robwierzbowski/grunt-build-control)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-build-control.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-build-control) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-build-control.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-build-control)
 
 #### Automate version control tasks for your project's built code. Keep built code in sync with source code, maintain multiple branches of built code, commit with automatic messages, and push to remote repositories.
 
@@ -101,7 +101,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.7.1"
+    "version": "0.7.1",
+    "bin": {}
 }
 ```
 
